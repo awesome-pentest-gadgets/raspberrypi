@@ -7,10 +7,10 @@ The Raspberry Pi is a series of credit card-sized single-board computers develop
 This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 
 ## Raspberry Pi Menu :
-- [OS Images](#os-images)
-- [Tools](#tools)
-- [Projects](#projects)
-- [Resources](#resources)
+- [OS for Raspberry Pi](#os-images)
+- [Tools for Raspberry Pi](#tools)
+- [Projects for Raspberry Pi](#projects)
+- [Resources for Raspberry Pi](#resources)
 
 ## OS for Raspberry Pi :
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
