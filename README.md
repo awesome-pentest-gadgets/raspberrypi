@@ -8,8 +8,6 @@ Buy Now (India) : [Raspberry Pi 3 Model B](https://www.amazon.in/Raspberry-Pi-Mo
 
 Buy Now (Global) : [Raspberry Pi 3 Model B](https://www.amazon.com/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_3?s=pc&ie=UTF8&qid=1520765537&sr=1-3)
 
-This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
-
 ## Raspberry Pi Menu :
 - [OS Images](#os-images)
 - [Tools](#tools)
