@@ -7,12 +7,12 @@ The Raspberry Pi is a series of credit card-sized single-board computers develop
 This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 
 ## Raspberry Pi Menu :
-- [OS for Raspberry Pi](#os-for-raspberry-pi-:)
-- [Tools for Raspberry Pi](#tools-for-raspberry-pi-:)
-- [Projects for Raspberry Pi](#projects-for-raspberry-pi-:)
-- [Resources for Raspberry Pi](#resources-for-raspberry-pi-:)
+- [OS Images](#os-images)
+- [Tools](#tools)
+- [Projects](#projects)
+- [Resources](#resources)
 
-## OS for Raspberry Pi :
+## OS Images
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
 - [NOOBS](https://www.raspberrypi.org/downloads/noobs/) - New Out Of the Box Software, an easy OS installer for beginners.
 - [Ubuntu MATE](https://ubuntu-mate.org/raspberry-pi/) - Ubuntu distribution for the Raspberry Pi based on MATE desktop. ![Supports Raspberry Pi 2+](/media/badges/rpi-2+.png)
@@ -60,7 +60,7 @@ This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 
 
 
-## Tools for Raspberry Pi :
+## Tools
 - [PiBakery](http://www.pibakery.org/) - The blocks based, easy to use setup tool for Raspberry Pi.
 - [ApplePi Bakery](http://www.tweaking4all.com/software/macosx-software/macosx-apple-pi-baker/) - macOS application to easily install/backup/restore images onto an SD card.
 - [Etcher](https://www.etcher.io/) - SD card burner app that is simple for end users, extensible for developers, and works on any platform.
@@ -79,7 +79,7 @@ This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 - [CusDeb](https://cusdeb.com/en/) - Web UI for creating custom images with specific packages installed.
 - [Alpha](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 
-## Projects for Raspberry Pi :
+## Projects
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 - [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) - Enclosure in a power strip, sniffing network data.
 - [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - Erlang cluster on a Raspberry Pi 2.
@@ -127,15 +127,15 @@ This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 - [pi-timolo](https://github.com/pageauc/pi-timolo) - Remote Headless multi feature PiCamera Operation from Rclone Remote Storage Service and More. 
 - [Hearing aid prototoype](https://github.com/m-r-s/hearingaid-prototype) - A Raspberry Pi powered prototype of a hearing aid. ![Supports Raspberry Pi 3](/media/badges/rpi-3.png)
 
-## Resources for Raspberry Pi :
-### Articles :
+## Resources
+### Articles
 - [Raspberry Pi and why do I need one?](https://www.liquidlight.co.uk/blog/article/raspberry-pi-what-is-it-and-why-do-i-need-one/) - Intro into the Raspberry Pi and what can be done with it.
 - [10 Ways To Power](https://raspberrypi.about.com/od/Power/tp/10-Ways-to-Power-your-Raspberry-Pi.htm) - Information about different & correct ways to power the pi.
 - [The Ultimate Raspberry Pi Security Guide](http://www.nhatqbui.com/assets/TheUltimateRaspberryPiSecurityGuide.pdf) - Extensive guide on security best practices for the Pi ie. exposed to the internet.
 - [Raspberry Pi A to Z List](https://github.com/wtsxDev/Raspberry-Pi) - Comprehensive list with links to common questions & pitfalls.
 
 
-### Tutorials :
+### Tutorials
 - [Bridging Wifi to the Raspberry Pi over Ethernet](https://blog.thibmaekelbergh.be/post/bridging-wifi-to-the-raspberry-pi-over-ethernet) - Set up tethered networking between macOS & Raspberry Pi.
 - [Raspberry Pi login with SSH keys](https://blog.thibmaekelbergh.be/post/raspberry-pi-login-with-ssh-keys) - Password-less login for ssh sessions on the Raspberry Pi.
 - [How to setup a secure VPN server on Raspberry Pi or DigitalOcean](http://blog.hsp.dk/how-to-setup-vpn-server-on-raspberry-pi-or-digitalocean/) - Simple, secure and detailed guide to setup VPN on your Raspberry Pi.
@@ -152,7 +152,7 @@ This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 - [DIY Neural Network](http://hackaday.com/2017/06/14/diy-raspberry-neural-network-sees-all-recognizes-some/) - Uses image recognition and Google’s Inception to recognize specific objects.
 - [Turn a Raspberry Pi into a Plex Media Server](https://www.codedonut.com/raspberry-pi/raspberry-pi-plex-media-server/) - Beginners guide to setting up a Plex media server to stream all of your media content.
 
-## Community :
+## Community
 - [Official Forum](https://www.raspberrypi.org/forums/)
 - [Official Blog](https://www.raspberrypi.org/blog/)
 - [Raspberry Pi Jam — Official conferences](https://www.raspberrypi.org/jam/)
