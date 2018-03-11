@@ -2,15 +2,15 @@
 
 <p align="center">***Raspberry Pi - OS, Tools, Projects and Resources***</p>
 
-The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Official Link: [Raspberry Pi](https://raspberrypi.org)
+The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Link : [Raspberry Pi](https://raspberrypi.org)
 
 This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 
 ## Raspberry Pi Menu :
-- [OS for Raspberry Pi](#os-for-raspberry-pi)
-- [Tools for Raspberry Pi](#tools-for-raspberry-pi)
-- [Projects for Raspberry Pi](#projects-for-raspberry-pi)
-- [Resources for Raspberry Pi](#resources-for-raspberry-pi)
+- [OS for Raspberry Pi](#os-for-raspberry-pi-:)
+- [Tools for Raspberry Pi](#tools-for-raspberry-pi-:)
+- [Projects for Raspberry Pi](#projects-for-raspberry-pi-:)
+- [Resources for Raspberry Pi](#resources-for-raspberry-pi-:)
 
 ## OS for Raspberry Pi :
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
