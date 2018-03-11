@@ -1,7 +1,5 @@
 <p align="center"><img src="https://github.com/thehackingsage/raspberrypi/blob/master/logo.png?raw=true" /></p>
 
-<p align="center">***Raspberry Pi - OS, Tools, Projects and Resources***</p>
-
 The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Link : [Raspberry Pi](https://raspberrypi.org)
 
 This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
