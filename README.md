@@ -1,6 +1,9 @@
 <p align="center"><img src="https://github.com/thehackingsage/raspberrypi/blob/master/logo.png?raw=true" /></p>
 
-The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. Link : [Raspberry Pi](https://raspberrypi.org)
+The Raspberry Pi is a series of credit card-sized single-board computers developed in the United Kingdom by the Raspberry Pi Foundation to promote the teaching of basic computer science in schools and developing countries. 
+Official Link : [Raspberry Pi](https://raspberrypi.org)
+Buy Now (India) : [Raspberry Pi 3 Model B](https://www.amazon.in/Raspberry-Pi-Model-RASP-PI-3-Motherboard/dp/B01CD5VC92)
+Buy Now (Global) : [Raspberry Pi 3 Model B](https://www.amazon.com/Raspberry-Pi-RASPBERRYPI3-MODB-1GB-Model-Motherboard/dp/B01CD5VC92/ref=sr_1_3?s=pc&ie=UTF8&qid=1520765537&sr=1-3)
 
 This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 
