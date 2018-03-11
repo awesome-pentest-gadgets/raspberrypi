@@ -7,10 +7,10 @@ The Raspberry Pi is a series of credit card-sized single-board computers develop
 This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 
 ## Raspberry Pi Menu :
-- [OS for Raspberry Pi](#os-images)
-- [Tools for Raspberry Pi](#tools)
-- [Projects for Raspberry Pi](#projects)
-- [Resources for Raspberry Pi](#resources)
+- [OS for Raspberry Pi](#os-for-raspberry-pi)
+- [Tools for Raspberry Pi](#tools-for-raspberry-pi)
+- [Projects for Raspberry Pi](#projects-for-raspberry-pi)
+- [Resources for Raspberry Pi](#resources-for-raspberry-pi)
 
 ## OS for Raspberry Pi :
 - [Raspbian](https://www.raspberrypi.org/downloads/raspbian/) - The official supported Raspberry Pi OS, based on Debian and available as a lite version.
@@ -79,7 +79,7 @@ This List is a Collection of Raspberry Pi OS, Tools, Projects and Resources.
 - [CusDeb](https://cusdeb.com/en/) - Web UI for creating custom images with specific packages installed.
 - [Alpha](https://github.com/farjump/raspberry-pi) - Remotely load, debug and test bare-metal programs using GDB with this system-level GDB server.
 
-## Projects
+## Projects for Raspberry Pi :
 - [Mini OONTZ](https://cdn-learn.adafruit.com/downloads/pdf/mini-oontz-3d-printed-midi-controller.pdf) - 3D printed mini MIDI controller.
 - [Power Sniffing Strip](https://hackaday.com/2012/10/04/malicious-raspberry-pi-power-strip-looks-a-bit-scary/) - Enclosure in a power strip, sniffing network data.
 - [Raspberry Pi Erlang Cluster](https://medium.com/@pieterjan_m/erlang-pi2-arm-cluster-vs-xeon-vm-40871d35d356#.bpao66cm8) - Erlang cluster on a Raspberry Pi 2.
